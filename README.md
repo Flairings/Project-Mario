@@ -1,7 +1,8 @@
 # Project-Mario
 Python botnet, Connects to servers via Paramiko
 
-https://imgur.com/a/VUXs49k
+![WARNING!](https://github.com/Flairings/Project-Mario/blob/main/Error%20Message.png?raw=true)
+
 
 this is a shit project. all the code is pretty broken and shit but have fun ig?
 
