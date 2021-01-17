@@ -371,8 +371,8 @@ def ideal():
         duration = (1, (clock() + dur))[dur > 0]
         if dur == 0:
             dur = 9999999
-        # Node1.exec_command('cd /root/Mario/')
-        # Node1.exec_command('python3 udp.py ' + ip + " " + str(port) + " " + str(dur))
+        Node1.exec_command('cd /root/Mario/')
+        Node1.exec_command('python3 udp.py ' + ip + " " + str(port) + " " + str(dur))
         sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
         bytes = random._urandom(35000)
         t_end = time.time() + dur
