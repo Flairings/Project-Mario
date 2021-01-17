@@ -1,6 +1,7 @@
 # Project-Mario
 Python botnet, Connects to servers via Paramiko
 
+https://imgur.com/a/VUXs49k
 
 this is a shit project. all the code is pretty broken and shit but have fun ig?
 
